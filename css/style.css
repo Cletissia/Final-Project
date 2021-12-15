@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+/*---------Nav css ------*/
+nav {
+  background-color: rgb(231, 191, 231);
+  height: 80px;
+  width: 10010;
+}
+header {
+  text-align: center;
+
+
+}  
+
+.right{
+  float: right;
+  list-style-type: none;
+  text-decoration: none;
+}
+li{
+  display: inline-block;
+
+}
+.nav-logo {
+  color: rgb(101, 36, 180);
+  font-size: 35px;
+  line-height:50px ;
+  padding: 0 100;
+  font-weight: bold;
+}
+
+.nav ul {
+  float: right;
+  margin-right: 20;
+}
+
+.v ul li {
+  display: inline-block
+  lie-height:80px;
+  margin: 0 5px
+  padding: 20px;
+
+  .v ul li a{
+    color: rgb(234, 229, 240);
+    font-size: 17px: 
+    padding: 7px 13px;
+    border-radius:3px;
+    text-transform: uppercase;
+  }
+
+}
+  a.active, a:hover{
+    background: .; purple
+    transition. .5s
+  
